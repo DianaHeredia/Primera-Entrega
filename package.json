@@ -1,0 +1,14 @@
+{
+  "name": "primeraentrega",
+  "version": "1.0.1",
+  "description": "Primer trabajo",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diana Carolina Heredia Castillo dianaheredia001@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
